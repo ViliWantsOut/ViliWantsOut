@@ -12,7 +12,7 @@ LinuxFromScratch (ALFS) scripts
 
 ----
 
-Small busybox/linux with Musl-libc install scripts
+Custom tiny Linux distribution (install shell scripts)
 
 -   Musl with musl-gcc
 -   Busybox with symlinks in /bin, statically built
