@@ -19,6 +19,8 @@ Small busybox/linux with Musl-libc install scripts
 -   Pre-installed firmware (to a reasonable extent)
 -   Both BIOS and UEFI boot capability
 
+----
+
 Custom tarball-based package manager (intended for LinuxFromScratch)
 
 -   Package installs and removal
